@@ -3,8 +3,8 @@
 An audio classifier for Capuchin bird species implemented in Python using TensorFlow-IO, TensorFlow, NumPy, and Matplotlib. This model classifies audio recordings into different Capuchin bird species.
 
 ## Model Link
-
-https://huggingface.co/spaces/suriya7/Deep-Aduio-Classification
+1. Interact with HuggingFace Space
+   https://huggingface.co/spaces/suriya7/Deep-Aduio-Classification
 
 ## Introduction
 
